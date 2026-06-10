@@ -1,0 +1,15 @@
+# --- Jupyter Notebooks & Python ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# --- Arquivos de Sistema do Windows ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Arquivos de Ambiente ---
+# (Como você não usa venv, isso aqui previne caso você crie uma no futuro)
+venv/
+env/
+.env
