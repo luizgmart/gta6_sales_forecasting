@@ -13,7 +13,10 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 ## 📊 Principais Resultados
 * **Acurácia (R²):** $0.68$ (Alta capacidade explicativa).
 * **Erro Médio Absoluto (MAE):** $5.31\%$ na taxa de penetração.
-* **Previsão GTA VI:** O modelo estima aproximadamente **36.97 milhões de cópias** no primeiro ano de lançamento.
+* **Previsão GTA VI:** O modelo estima aproximadamente **36.97 milhões de cópias** no primeiro ano de lançamento. O resultado ficou bastante alinhado às estimativas atuais de analistas do setor, que variam entre 40 e 45 milhões de unidades.
+
+<img width="686" height="453" alt="Captura de tela 2026-06-11 090224" src="https://github.com/user-attachments/assets/406b2987-c309-4111-ac61-c34e20a7f4a6" />
+ 
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
@@ -22,7 +25,7 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/luizgmart/gta-sales-forecasting.git](https://github.com/luizgmart/gta-sales-forecasting.git)
+   git clone [https://github.com/luizgmart/gta6-sales-forecasting.git](https://github.com/luizgmart/gta6-sales-forecasting.git)
 Instale as dependências:
 
 Bash
