@@ -1,4 +1,3 @@
-Markdown
 # GTA VI: Sales Forecasting & Market Penetration Analysis
 
 ## 🎯 Objetivo do Projeto
