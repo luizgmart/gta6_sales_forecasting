@@ -17,7 +17,7 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
-* **Bibliotecas:** `Pandas`, `NumPy`, `Scikit-Learn`, `XGBoost`, `Matplotlib`
+* **Bibliotecas:** `Pandas`, `NumPy`, `Scikit-Learn`, `XGBoost`
 
 ## 🚀 Como Executar
 1. Clone o repositório:
