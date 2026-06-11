@@ -25,7 +25,7 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/luizgmart/gta6-sales-forecasting.git](https://github.com/luizgmart/gta6-sales-forecasting.git)
+   git clone [https://github.com/luizgmart/gta6_sales_forecasting.git](https://github.com/luizgmart/gta6_sales_forecasting.git)
 Instale as dependências:
 
 Bash
