@@ -22,7 +22,7 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/gta-sales-forecasting.git](https://github.com/SEU_USUARIO/gta-sales-forecasting.git)
+   git clone [https://github.com/luizgmart/gta-sales-forecasting.git](https://github.com/luizgmart/gta-sales-forecasting.git)
 Instale as dependências:
 
 Bash
