@@ -11,7 +11,7 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 * **Diferencial:** O modelo aprende a converter a base de usuários disponível, tornando a projeção escalável e aderente aos cenários macroeconômicos.
 
 ## 📊 Principais Resultados
-* **Acurácia (R²):** $0.68$ (Alta capacidade explicativa).
+* **Acurácia (R²):** $0.68$ (Capacidade explicativa moderada).
 * **Erro Médio Absoluto (MAE):** $5.31\%$ na taxa de penetração.
 * **Previsão GTA VI:** O modelo estima aproximadamente **36.97 milhões de cópias** no primeiro ano de lançamento. O resultado ficou bastante alinhado às estimativas atuais de analistas do setor, que variam entre 40 e 45 milhões de unidades.
 
@@ -23,11 +23,13 @@ Utilizamos uma abordagem baseada em aprendizado de máquina para entender como f
 * **Bibliotecas:** `Pandas`, `NumPy`, `Scikit-Learn`, `XGBoost`
 
 ## 🚀 Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/luizgmart/gta6_sales_forecasting.git](https://github.com/luizgmart/gta6_sales_forecasting.git)
-Instale as dependências:
 
-Bash
-pip install -r requirements.txt
-Execute o notebook gta6_sales_forecasting.ipynb.
+1. Clone o repositório:
+```bash
+   git clone https://github.com/luizgmart/gta6_sales_forecasting.git
+```
+2. Instale as dependências:
+```bash
+   pip install -r requirements.txt
+```
+3. Execute o notebook `gta6_sales_forecasting.ipynb`.
